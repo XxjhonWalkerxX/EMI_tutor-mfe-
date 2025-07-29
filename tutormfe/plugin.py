@@ -56,8 +56,9 @@ CORE_MFE_APPS: dict[str, MFE_ATTRS_TYPE] = {
         "port": 1994,
     },
     "learner-dashboard": {
-        "repository": "https://github.com/openedx/frontend-app-learner-dashboard.git",
+        "repository": "https://github.com/XxjhonWalkerxX/frontend-app-learner-dashboard.git",
         "port": 1996,
+        "version": "emi-dashboard",
     },
     "learning": {
         "repository": "https://github.com/openedx/frontend-app-learning.git",
